@@ -1,4 +1,6 @@
 ﻿# Pokemon_In_Python
+ 
+ **To run the program you only need to run main**
 
 ![pokemon](https://user-images.githubusercontent.com/90526270/148654015-66545f71-423c-4f16-bd7a-29a24bbc1a5b.png)
 
